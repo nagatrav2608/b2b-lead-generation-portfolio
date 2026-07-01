@@ -31,7 +31,7 @@ The dataset consists of 10 structured columns optimized for modern CRM systems (
 ---
 
 ## File Inventory
-* 📄 **[B2B_Lead_Generation_Cleaned_Dataset.csv](./B2B_Lead_Generation_Cleaned_Dataset.csv):** The complete clean dataset containing 50 fully audited rows and 10 dynamic data columns.
+* 📄 **[Firmansyah_Portfolio_B2B_Lead_Generation.xlsx](./Firmansyah_Portfolio_B2B_Lead_Generation.xlsx):** The complete clean dataset containing 50 fully audited rows and 10 dynamic data columns.
 
 ---
 
