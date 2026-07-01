@@ -1,6 +1,6 @@
 # B2B Lead Generation & Data Cleaning Portfolio
 
-## Project Overview
+## 📄 Project Overview
 This repository showcases a high-quality, large-scale B2B lead generation and data hygiene project tailored for multinational sales and outbound marketing campaigns. The dataset focuses on C-level executives and key decision-makers within the Tech, SaaS, Logistics, and E-commerce industries across the United States (US) and the United Kingdom (UK).
 
 The primary objective of this project was to extract raw contact lists, perform extensive data scrubbing, normalize text structures, and classify lead validity to minimize email bounce rates and optimize sales conversion metrics.
@@ -30,12 +30,12 @@ The dataset consists of 10 structured columns optimized for modern CRM systems (
 
 ---
 
-## File Inventory & Live Access
+## 📂 Project Deliverables & Live Access
 * 📊 **[Live Interactive Google Sheets (Recommended)](https://docs.google.com/spreadsheets/d/1gKjNZ_6lCX5FsZ3OInu0GeLOuz6QZLb_l-JTeBgahFA/edit?usp=sharing):** Click here to view the live dataset featuring active data validation dropdowns, conditional formatting, and real-time layout structures.
 
 ---
 
-## Core Competencies & Tools
+## 🛠️ Core Competencies & Tools
 * **Applications:** Microsoft Excel, Google Sheets, CRM Data Entry.
 * **Techniques:** Data Auditing, Text Normalization, Outbound Lead Sourcing, VLOOKUP, Conditional Formatting, Bulk Data Processing, High Typing Accuracy (65+ WPM).
 
