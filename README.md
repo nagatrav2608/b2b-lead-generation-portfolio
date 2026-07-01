@@ -30,8 +30,9 @@ The dataset consists of 10 structured columns optimized for modern CRM systems (
 
 ---
 
-## File Inventory
-* 📄 **[Firmansyah_Portfolio_B2B_Lead_Generation.xlsx](./Firmansyah_Portfolio_B2B_Lead_Generation.xlsx):** The complete clean dataset containing 50 fully audited rows and 10 dynamic data columns.
+## File Inventory & Live Access
+* 📊 **[Live Interactive Google Sheets (Recommended)]([MASUKKAN_LINK_GOOGLE_SHEETS_KAMU_DISINI](https://docs.google.com/spreadsheets/d/1gKjNZ_6lCX5FsZ3OInu0GeLOuz6QZLb_l-JTeBgahFA/edit?usp=sharing)):** Click here to view the live dataset featuring active data validation dropdowns, conditional formatting, and real-time layout structures.
+* 📄 **[B2B_Lead_Generation_Cleaned_Dataset.csv](./B2B_Lead_Generation_Cleaned_Dataset.csv):** The raw backup dataset containing 50 fully audited rows and 10 dynamic data columns for offline verification. The complete clean dataset containing 50 fully audited rows and 10 dynamic data columns.
 
 ---
 
