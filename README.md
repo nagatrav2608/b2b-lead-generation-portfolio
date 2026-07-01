@@ -39,5 +39,8 @@ The dataset consists of 10 structured columns optimized for modern CRM systems (
 * **Applications:** Microsoft Excel, Google Sheets, CRM Data Entry.
 * **Techniques:** Data Auditing, Text Normalization, Outbound Lead Sourcing, VLOOKUP, Conditional Formatting, Bulk Data Processing, High Typing Accuracy (65+ WPM).
 
----
-*For professional inquiries regarding Remote Data Entry, Data Operations, or Lead Generation roles, please reach out via my LinkedIn profile or corporate email.*
+## ✉️ Professional Contact & Availability
+I am currently available for long-term and short-term remote contracts, dedicated freelancing opportunities, or full-time remote roles as a Data Entry Specialist, Virtual Assistant, or Operations Associate. Let's connect to streamline your business operations:
+
+* **Email:** magnum.firman@gmail.com
+* **LinkedIn:** [Firmansyah](https://www.linkedin.com/in/firmansyah-firmansyah-333583174/)
